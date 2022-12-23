@@ -1,26 +1,24 @@
 ## What is the ODC?
-There are two main aspects to this today:
+The OpenData Community is an open source community originally founded by Gitcoin as a part of their efforts to enable communities to fund their shared needs.
 
-- Sybil resistance via data science and other approaches
-- Resisting recentralization at the data layer
+Our mission is to protect web3, focusing on:
 
-IMO resisting recentralization or supporting decentralized data layer solutions is our bedrock - however without #1 there might not be a locus of effort to rally.
+- Sybil resistence through data science and the development of useful algorithms and other approaches
+- Resisting recentralization and potential capture at the data layer
 
-Also we are primarily supported today by Gitcoin which is at the forefront of efforts to resist Sybil attacks both via software via Passport and of course via the efforts of the FDD team within Gitcoin. If we collectively do not resist Sybil attacks then one of the real bright spots of web3 - the collective funding of public goods - would be captured by essentially criminal forces.
+If we collectively do not resist Sybil attacks then one of the real bright spots of web3 - the collective funding of public goods - could be captured by essentially criminal forces.  Similarly if we continue to all take short cuts when accessing and analyzing blockchain data then we are adding vulnerability to the ecosystem right above the decentralized blockchains in the form of centralization.  
 
 We want to highlight values such as:
 
 - openness - working in public and actively requesting input
 - candor - being direct and facts based
 - inclusive - making a particular effort to welcome and invite a breadth of perspectives
-- initiative - last but definitely not least IMO. Perhaps we should emphasize the importance of taking initiative
+- initiative - we are action oriented and respect and appreciate those that take on responsibility
 
-This Landscape list is intended to be a growing list of projects that are open source that the community finds to be useful. 
+One of our projects is to collectively currate useful solutions that enable data analysts to find insights while remaining decentralized.  Your feedback and input into the Landscape and all other materials we publish is hugely valuable - as are your stars on the repository and amplification on social media.  
 
 ## [The Landscape](https://github.com/OpenDataforWeb3/Landscape/)
 
 ## Join Us
-
-Please do create an issue or simply a pull request against this document. There are many opportunities to collaborate. 
 
 Find more [details of what we are doing and when by reviewing our wiki here](https://github.com/OpenDataforWeb3/Landscape/wiki). 
