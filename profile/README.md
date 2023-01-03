@@ -17,7 +17,7 @@ We want to highlight values such as:
 
 One of our projects is to collectively currate useful solutions that enable data analysts to find insights while remaining decentralized.  Your feedback and input into the Landscape and all other materials we publish is hugely valuable - as are your stars on the repository and amplification on social media.  
 
-## [The Landscape](https://github.com/OpenDataforWeb3/Landscape/)
+## [The Landscape](https://github.com/OpenDataforWeb3/Resources/blob/main/docs/landscape.md)
 
 ## Join Us
 
